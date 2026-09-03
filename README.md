@@ -7,7 +7,7 @@
 ⚡ Fun fact: I love exploring how technology works and finding ways to make it more secure.
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/joshna-adlin-8394a9380?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](<a href="https://www.linkedin.com/in/joshna-adlin-8394a9380" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/joshnaadlin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://your-resume-link.com)
